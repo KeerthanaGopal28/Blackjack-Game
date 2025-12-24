@@ -9,5 +9,6 @@
 - HTML
 - CSS
 - JavaScript[arrays,loops,objects]
-Link to play Game:
+### Link to play Game:
+- https://blackjack-game-5vjy.vercel.app/
 
